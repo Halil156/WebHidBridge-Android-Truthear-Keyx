@@ -1,6 +1,8 @@
-Built with the help of AI (Claude + Android Studio AI Agent), with human review and testing.
+# WebHID Bridge (Android) — for Truthear KeyX
 
-# WebHID Bridge for Android
+🤖 This project was developed largely with AI assistance (Claude and Android 
+Studio's AI Agent), with human oversight, testing, and refinement throughout.
+
 
 An Android application that acts as a bridge for WebHID-enabled websites to communicate with USB HID devices on Android. Specifically optimized for **Truthear KEYX** and similar DAC/EQ devices.
 
