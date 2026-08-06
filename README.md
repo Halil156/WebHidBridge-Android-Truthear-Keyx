@@ -23,3 +23,23 @@ This is an **unofficial community project**. I am not affiliated with Truthear, 
 
 ## License
 MIT
+
+
+[WebHID Bridge.zip](https://github.com/user-attachments/files/30805851/WebHID.Bridge.zip)
+
+This is the first stable release of the WebHID Bridge for Android, specifically designed to bring full mobile support to **Truthear KEYX** and similar devices.
+
+### 🌟 Key Features
+- **WebHID Polyfill**: Enables USB HID communication on mobile browsers that natively lack WebHID API support.
+- **Optimized for EQ Tools**: Full compatibility with [graph.hangout.audio](https://graph.hangout.audio/) and [eqtool.com](https://eqtool.com/).
+- **Desktop Emulation**: Automatically forces sites into desktop mode with proper zoom, scroll, and viewport settings.
+- **Auto-Connect**: Prompts for USB permissions automatically on startup for a seamless experience.
+
+### 🛠 How to Install
+1. Download the `WebHID Bridge.zip` file attached to this release.
+2. Extract the `.apk` file from the ZIP.
+3. Install the APK on your Android device (you may need to allow "Install from unknown sources" in your settings).
+4. Connect your Truthear KEYX and launch the app.
+
+### ⚠️ Disclaimer
+This is an **unofficial community project**. I am not affiliated with Truthear or the mentioned web tools. Use it at your own risk.
