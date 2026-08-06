@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.halil.webhidbridge.app-debug-24:/layout_activity_main.xml.flat",
+        "source": "com.halil.webhidbridge.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.halil.webhidbridge.app-debug-24:/xml_device_filter.xml.flat",
+        "source": "com.halil.webhidbridge.app-main-26:/xml/device_filter.xml"
+    }
+]

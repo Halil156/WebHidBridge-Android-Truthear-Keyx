@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Optional: fill in the KeyX's vendor-id / product-id (decimal, not hex) here so
+    Android offers to open this app automatically when it's plugged in.
+    Until you know these, leave this empty and just launch the app manually before
+    plugging in the DAC — everything else works the same.
+
+    Example once known:
+    <usb-device vendor-id="10473" product-id="394" />
+-->
+<resources>
+</resources>

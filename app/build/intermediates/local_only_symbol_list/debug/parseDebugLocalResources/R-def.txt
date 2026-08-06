@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+id btnEqtool
+id btnHangout
+id connectHidButton
+id goButton
+id urlBar
+id webView
+layout activity_main
+xml device_filter
