@@ -1,3 +1,5 @@
+Built with the help of AI (Claude + Android Studio AI Agent), with human review and testing.
+
 # WebHID Bridge for Android
 
 An Android application that acts as a bridge for WebHID-enabled websites to communicate with USB HID devices on Android. Specifically optimized for **Truthear KEYX** and similar DAC/EQ devices.
