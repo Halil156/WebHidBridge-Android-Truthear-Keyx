@@ -24,7 +24,7 @@ This is an **unofficial community project**. I am not affiliated with Truthear, 
 ## License
 MIT
 
-
+## APPLICATION INSTALLATION
 [WebHID Bridge.zip](https://github.com/user-attachments/files/30805851/WebHID.Bridge.zip)
 
 This is the first stable release of the WebHID Bridge for Android, specifically designed to bring full mobile support to **Truthear KEYX** and similar devices.
