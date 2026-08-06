@@ -29,7 +29,6 @@ This is an **unofficial community project**. I am not affiliated with Truthear, 
 MIT
 
 ## APPLICATION INSTALLATION
-[WebHID Bridge.zip](https://github.com/user-attachments/files/30805851/WebHID.Bridge.zip)
 
 This is the first stable release of the WebHID Bridge for Android, specifically designed to bring full mobile support to **Truthear KEYX** and similar devices.
 
@@ -40,6 +39,7 @@ This is the first stable release of the WebHID Bridge for Android, specifically 
 - **Auto-Connect**: Prompts for USB permissions automatically on startup for a seamless experience.
 
 ### 🛠 How to Install
+[WebHID Bridge.zip](https://github.com/user-attachments/files/30805851/WebHID.Bridge.zip)
 1. Download the `WebHID Bridge.zip` file attached to this release.
 2. Extract the `.apk` file from the ZIP.
 3. Install the APK on your Android device (you may need to allow "Install from unknown sources" in your settings).
